@@ -1,0 +1,222 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#header {
+    width: 100%;
+    height: 85px;
+    background: white;
+}
+
+#tab {
+    width: 960px;
+    height: 85px;
+    margin: 0 auto;
+}
+
+#tab a,img {
+    width: 200px;
+    height: 85px;
+    display: inline-block;
+    float: left;
+}
+
+#logo-right {
+    width: 462px;
+    height: 66px;
+    background: white;
+    float: right;
+
+}
+
+#logo-right .a-left {
+    background: url("imgs/header_corn_new_v2.png") no-repeat;
+    background-position: -6px 0px;
+    width: 110px;
+    height: 31px;
+    float: left;
+    margin-top: 35px;
+}
+
+#logo-right .a-center {
+    width: 170px;
+    height: 31px;
+    background: url("imgs/gild.png") no-repeat;
+    background-position: 0 0;
+    margin-top: 35px;
+    margin-left: 21px;
+}
+
+#logo-right .a-right {
+    width: 110px;
+    height: 31px;
+    float: right;
+    background: url("imgs/header_corn_new_v2.png");
+    background-position: 0 0;
+    margin-top: 35px;
+    margin-right: 27px;
+}
+
+#middle {
+    width: 1349px;
+    height: 418px;
+    background: bisque;
+}
+
+#middle .middle-center {
+    width: 960px;
+    height: 418px;
+    margin: 0 auto;
+}
+
+#middle .middle-center-left {
+    width: 356px;
+    height: 418px;
+    float: left;
+}
+
+#middle .middle-center-left img {
+    width: 608px;
+    height: 418px;
+}
+
+#middle .middle-center-right {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 312px;
+    height: 418px;
+    float: right;
+    background: white;
+    box-shadow: 1px 11px 15px #DCDCDB;
+}
+
+#middle .middle-center-right h1 {
+    height: 60px;
+    background: white;
+}
+
+ .middle-center-right p {
+    height: 60px;
+    width: 100px;
+    color: #ed145b;
+    font-size: 21px;
+    line-height: 60px;
+    float: left;
+    font-family: "微软雅黑";
+}
+
+#middle .middle-center-right h1 div {
+    width: 155px;
+    height: 60px;
+    float: right;
+    font-size: 10px;
+    line-height: 60px;
+}
+
+#middle .middle-center-right h1 a {
+    font-size: 10px;
+    float: right;
+    color: #ed145b;
+    padding-left: 7px;
+    text-decoration: none;
+}
+
+#middle .middle-center-right h1 a:hover {
+    text-decoration: underline;
+}
+
+#middle .middle-center-right #select {
+    width: 310px;
+    height: 45px;
+    border: 1px solid gray;
+    margin-top: 12px;
+}
+
+#middle .middle-center-right .search-submit {
+    width: 30px;
+    height: 30px;
+    margin-top: 14px;
+    background: url("imgs/sign.png") no-repeat;
+    background-position: 5px -11px;
+    border: none;
+    outline: none
+}
+
+#middle .middle-center-right .search-text {
+    width: 280px;
+    height: 45px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+}
+
+#middle .middle-center-right #passLeft {
+    height: 47px;
+    width: 140px;
+    border: 1px solid gray;
+    margin-top: 40px;
+    float: left;
+}
+
+#middle .middle-center-right .sub {
+    width: 30px;
+    height: 30px;
+    margin-top: 14px;
+    background: url("imgs/sign.png") no-repeat;
+    background-position: 5px -11px;
+    border: none;
+    outline: none
+}
+
+#middle .middle-center-right .tex {
+    width: 100px;
+    height: 45px;
+    border: none;
+    font-size: 16px;
+    outline: none;
+
+}
+
+#middle .middle-center-right #passRight {
+    height: 47px;
+    width: 140px;
+    border: 1px solid gray;
+    margin-top: 40px;
+    float: right;
+    text-align: center;
+    line-height: 44px;
+
+    background: whitesmoke;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+#middle .middle-center-right #small {
+    float: left;
+    width: 100px;
+    height: 30px;
+    margin-top: 30px;
+
+}
+
+#middle .middle-center-right .sea {
+    float: left;
+    margin-top: 20px;
+    width: 310px;
+    height: 43px;
+    border: 1px solid gray;
+    line-height: 40px;
+    text-align: center;
+    background: crimson;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
